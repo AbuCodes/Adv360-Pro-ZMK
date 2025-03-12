@@ -85,7 +85,7 @@
 
         layer_5 {
             bindings = <
-&trans  &trans              &trans              &trans              &trans              &trans              &trans                                      &trans  &trans              &trans              &trans              &trans              &trans               &trans
+&trans  &trans              &trans              &trans              &trans              &trans              &trans                                      &trans  &trans              &trans              &trans              &trans              &trans               &to 5
 &trans  &kp LS(LC(LA(F1)))  &kp LS(LC(LA(F2)))  &kp LS(LC(LA(F3)))  &kp LS(LC(LA(F4)))  &kp LS(LC(LA(F5)))  &trans                                      &trans  &kp LS(LC(LA(F6)))  &kp LS(LC(LA(F7)))  &kp LS(LC(LA(F8)))  &kp LS(LC(LA(F9)))  &kp LS(LC(LA(F10)))  &trans
 &trans  &kp LS(LC(LA(N1)))  &kp LS(LC(LA(N2)))  &kp LS(LC(LA(N3)))  &kp LS(LC(LA(N4)))  &kp LS(LC(LA(N5)))  &trans  &trans  &trans      &trans  &trans  &trans  &kp LS(LC(LA(N6)))  &kp LS(LC(LA(N7)))  &kp LS(LC(LA(N8)))  &kp LS(LC(LA(N9)))  &kp LS(LC(LA(N0)))   &trans
 &trans  &trans              &trans              &trans              &trans              &trans                              &trans      &trans                  &trans              &trans              &trans              &trans              &trans               &trans
